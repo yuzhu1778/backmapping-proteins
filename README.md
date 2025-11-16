@@ -1,3 +1,4 @@
 # backmapping
 
-This software is used to back map all atom protens from coarse grained beads.
+This software is designed to perform the reconstruction of all-atom proteins from coarse-grained protein using a feed-forward neural network.
+
